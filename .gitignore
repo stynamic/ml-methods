@@ -1,0 +1,37 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook metadata files
+*.ipynb_checkpoints
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+
+# Temporary files and system-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled C extensions
+*.so
+
+# Jupyter Notebook temporary output
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
